@@ -3,7 +3,9 @@
 ## Overview
 This Python script performs web scraping on a specified URL and extracts information from the HTML content. It utilizes the requests library for making HTTP requests and BeautifulSoup for parsing HTML.
 
+
 ## Table of Contents
+
 - [Setup](#setup)
   - [Create a Virtual Environment](#create-a-virtual-environment)
   - [Install Dependencies](#install-dependencies)
